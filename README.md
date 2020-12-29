@@ -11,4 +11,7 @@ Dependencies:
 2. Fonts: nerd-fonts-mononoki, ttf-hack, ttf-joypixels
 
 To Install:
-1. 
+1. git clone https://github.com/BadrikeshPrusty/dmenu.git
+2. cd dmenu
+3. make
+4. sudo make clean install
